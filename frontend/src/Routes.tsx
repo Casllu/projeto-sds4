@@ -14,7 +14,6 @@ const Routes = () => {
                 </Route>
             </Switch>
         </BrowserRouter>
-
     );
 }
 
